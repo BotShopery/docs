@@ -4,10 +4,16 @@
 
 ## Getting Started <a id="start"></a>
 
-* [Add the bot](start/add.md)
+* [Invite Shopery](start/add.md)
 * [Permissions](start/permissions.md)
+* [Commands](start/commands/README.md)
+  * [Category 1](start/commands/category-1.md)
+  * [Category 2](start/commands/category-2.md)
 
-## Legal
+## Other
 
-* [Terms of Service](legal/tos.md)
+* [Changelog - December 2020](other/changelog-december-2020.md)
+* [Support](other/support.md)
+* [Terms of Service](other/tos.md)
+* [Privacy Policy](other/privacy-policy.md)
 

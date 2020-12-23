@@ -1,2 +1,2 @@
-# Add the bot
+# Invite Shopery
 
