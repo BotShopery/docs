@@ -8,19 +8,21 @@ This regulation is subject to change without prior notice. It is the duty of the
 
 ## Bot Rules
 
+### Orders
+
 {% hint style="danger" %}
-By using the bot's ordering system, your order _**may not**_ include the following:
+**You may not include:**
 
 1. Mentions of, or direct pornographic \(NSFW\) content. All orders must be entirely SFW;
 2. Racist, homophobic or xenophobic content;
-3. More than 4 requests. Please refer to [this](https://i.imgur.com/yzzzHgx.png) for more informations;
+3. More than 4 requests. Please refer to [this](https://i.imgur.com/jDqw4gb.png) for more informations;
 4. Incomprehensible requests. Your order must be understandable by the person reading it;
 5. Unknown user/character. If a user/character can not be found, they must be detectable on Google;
 6. Illegal topics/content.
 {% endhint %}
 
 {% hint style="success" %}
-However, your order _**may**_ include the following:
+**You may include:**
 
 1. Non-English requests. Your order will then be translated using a software such as Google Translate;
 2. A mentioned user's avatar. The command `$avatar` fetch the provided user's avatar, using their ID.
