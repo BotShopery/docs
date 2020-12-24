@@ -1,7 +1,7 @@
 # Privacy Policy
 
 {% hint style="info" %}
-By using **Shopery**, you acknowledge that the following data will be collected and stored in our database:
+By using **Shopery**, you acknowledge that the following data will be collected and stored in our database permanently:
 
 * Your user ID.
 {% endhint %}
@@ -27,4 +27,6 @@ By using **Shopery**, you acknowledge that the following data will be shown publ
 * Your server's ID;
 * Your database informations \(rank, work points, total orders, etc..\).
 {% endhint %}
+
+If you wish your account to be permanently deleted from our database \(unless you are Banned\), you may request so to our Leading Team.
 
