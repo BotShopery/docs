@@ -1,5 +1,5 @@
 ---
-description: Here are all available commands on Shopery.
+description: Commands available in Shopery.
 ---
 
 # Commands
@@ -20,7 +20,7 @@ description: Here are all available commands on Shopery.
     <tr>
       <td style="text-align:left"><code>$avatar</code>
       </td>
-      <td style="text-align:left">&lt;code&gt;&lt;/code&gt;</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left">User</td>
     </tr>
     <tr>

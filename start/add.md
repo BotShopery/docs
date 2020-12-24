@@ -26,3 +26,9 @@ You will now be prompted to select will permissions you want to keep for the bot
 
 ![](../.gitbook/assets/rd1imm1.png)
 
+
+
+### Enjoy!
+
+The bot is now on your server. Discover all of our commands by going [here](../commands.md)!
+
