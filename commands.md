@@ -18,6 +18,19 @@ description: Commands available in Shopery.
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left"><code>$about</code>
+      </td>
+      <td style="text-align:left">
+        <p><code>$info</code>
+        </p>
+        <p><code>$botinfo</code>
+        </p>
+        <p><code>$developer</code>
+        </p>
+      </td>
+      <td style="text-align:left">User</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>$avatar</code>
       </td>
       <td style="text-align:left"></td>
