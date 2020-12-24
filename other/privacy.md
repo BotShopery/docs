@@ -10,10 +10,8 @@ By using **Shopery**, you acknowledge that the following data will be collected 
 By using **Shopery**, you acknowledge that the following data will be logged \(and visible to Shopery's Leading Team only\) when running _any command_ for security purposes:
 
 * Any command, and its parameters;
-* The server \(Name\) from where it was ran;
-* The server \(ID\) from where it was ran;
-* The user \(Tag\) who ran the command;
-* The user \(ID\) who ran the command:
+* The server \(Name & ID\) from where it was ran;
+* The user \(Tag & ID\) who ran the command;
 * The date and time of the command's execution.
 {% endhint %}
 
