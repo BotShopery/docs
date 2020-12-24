@@ -20,7 +20,7 @@ description: Here are all available commands on Shopery.
     <tr>
       <td style="text-align:left"><code>$avatar</code>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">&lt;code&gt;&lt;/code&gt;</td>
       <td style="text-align:left">User</td>
     </tr>
     <tr>
@@ -142,6 +142,95 @@ Don't include them in your commands.
 
 ### $avatar
 
-Description: _Shows the avatar of the user, mentioned user or provided ID._  
+Description: _Shows the avatar of the user, mentioned user or provided user ID._  
 Usage: `$avatar <user>`
+
+### $bug
+
+Description: _Reports a bug to the developers._  
+Usage: `$bug [description]`
+
+### $cancel
+
+Description: _Cancels the current order._  
+Usage: `$cancel`
+
+### $claim
+
+Description: _Claims the selected order._  
+Usage: `$claim [order_id]`
+
+### $deliver
+
+Description: _Delivers the selected order._  
+Usage: `$deliver [order_id]`
+
+### $deliverymessage
+
+Description: _Sets the delivery message._  
+Usage: `$deliverymessage <message>`
+
+### $discord
+
+Description: _Shows an invite to the official Discord server._  
+Usage: `$discord`
+
+### $eval
+
+Description: _Runs Javascript code._  
+Usage: `$eval [code]`
+
+### $fire
+
+Description: _Fires the provided user from the Team._  
+Usage: `$fire [user]`
+
+### $help
+
+Description: _Shows the commands list._  
+Usage: `$help`
+
+### $hire
+
+Description: _Hires the provided user in the Team._  
+Usage: `$hire [user]`
+
+### $order
+
+Description: _Orders something and sends it to the workshop._  
+Usage: `$order [product]`
+
+{% hint style="danger" %}
+Make sure to follow our [Terms of Service](other/tos.md#bot-rules) when you order something.
+{% endhint %}
+
+### $orderinfo
+
+Description: _Gives informations about the selected order._  
+Usage: `$orderinfo [order_id]`
+
+### $pack
+
+Description: _Packs a claimed order._  
+Usage: `$pack [url]`
+
+### $review
+
+Description: _Gives a review when an order is completed, towards the cashier and deliverer._  
+Usage: `$review [product_quality] [delivery_quality] <comment>`
+
+### $sql
+
+Description: _Runs a MySQL query._  
+Usage: `$sql [query]`
+
+### $status
+
+Description: _Shows the order's status._  
+Usage: `$status`
+
+### $strike
+
+Description: _Strikes and deletes the selected order._  
+Usage: `$strike [order_id]`
 
