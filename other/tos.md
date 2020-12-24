@@ -9,7 +9,7 @@ This regulation is subject to change without prior notice. It is the duty of the
 ## Bot Rules
 
 {% hint style="danger" %}
-By using the bot's ordering system, you order _**may not**_ include the following:
+By using the bot's ordering system, your order _**may not**_ include the following:
 
 1. Mentions of, or direct pornographic \(NSFW\) content. All orders must be entirely SFW;
 2. Racist, homophobic or xenophobic content;
@@ -22,6 +22,6 @@ By using the bot's ordering system, you order _**may not**_ include the followin
 However, your order _**may**_ include the following:
 
 1. Non-English requests. Your order will then be translated using a software such as Google Translate;
-2. A mentioned user's avatar. The command `$avatar` allows to fetch a known user's avatar, using their ID.
+2. A mentioned user's avatar. The command `$avatar` fetch the provided user's avatar, using their ID.
 {% endhint %}
 
