@@ -1,7 +1,7 @@
 # Privacy Policy
 
 {% hint style="info" %}
-By using **Shopery**, you acknowledge that the following data will be collected and stored in our database permanently:
+By using **Shopery**, you acknowledge that the following data will be collected and stored in our database:
 
 * Your user ID.
 {% endhint %}
@@ -16,7 +16,7 @@ By using **Shopery**, you acknowledge that the following data will be logged \(a
 {% endhint %}
 
 {% hint style="danger" %}
-By using **Shopery**, you acknowledge that the following data will be shown publicly in "**Shopery Workshop**" at certain events. You also acknowledge that the data may be visible to others when running a command:
+By using **Shopery**, you acknowledge that the following data will be shown publicly in "**Shopery Workshop**" at certain events. You also acknowledge that the data may be visible to others when running a certain command:
 
 * Your tag;
 * Your ID;
