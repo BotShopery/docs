@@ -4,7 +4,7 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 ### Banned
 
-0 - `Banned` - The user is banned. All commands without exception are blocked and can not be used by this user. A ban is automatically issued when reaching the third strike.
+0 - `Banned` - The user is banned. All commands without exception are blocked and can not be used by this user. View [this page](other/bans.md) for more information.
 
 ### User
 

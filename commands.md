@@ -97,6 +97,30 @@ description: Commands available in Shopery.
       </td>
       <td style="text-align:left">User</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>$user</code>
+      </td>
+      <td style="text-align:left">
+        <p><code>$userinfo</code>
+        </p>
+        <p><code>$ui</code>
+        </p>
+      </td>
+      <td style="text-align:left">User</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>$vote</code>
+      </td>
+      <td style="text-align:left">
+        <p><code>$dbl</code>
+        </p>
+        <p><code>$top.gg</code>
+        </p>
+        <p><code>$topgg</code>
+        </p>
+      </td>
+      <td style="text-align:left">User</td>
+    </tr>
   </tbody>
 </table>
 
@@ -251,4 +275,14 @@ Usage: `$status`
 
 Description: _Strikes and deletes the selected order._  
 Usage: `$strike [order_id]`
+
+### $user
+
+Description: _Shows information about the user._  
+Usage:  `user <user>`
+
+### $vote
+
+Description: _Shows the vote link._  
+Usage: `$vote`
 
