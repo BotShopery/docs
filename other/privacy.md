@@ -30,3 +30,5 @@ By using **Shopery**, you acknowledge that the following data will be shown publ
 
 If you wish your account to be permanently deleted from our database \(unless you are Banned\), you may request so to our Leading Team.
 
+If you wish to see all internal data we store about you, you may request so to our Leading Team.
+
