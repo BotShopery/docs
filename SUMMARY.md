@@ -13,4 +13,5 @@
 
 * [Terms of Service](other/tos.md)
 * [Privacy Policy](other/privacy.md)
+* [Bans and Strikes](other/bans.md)
 
