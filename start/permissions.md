@@ -30,6 +30,8 @@ The bot requires a few extra permissions:
         </p>
         <p><code>$status</code>
         </p>
+        <p><code>$help</code>
+        </p>
       </td>
       <td style="text-align:left">
         <p>Some messages are required to be sent in the Embed format.</p>
