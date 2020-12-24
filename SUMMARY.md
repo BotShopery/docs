@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Commands](commands.md)
+* [Rank Hierarchy](rank-hierarchy.md)
 
 ## Getting Started <a id="start"></a>
 

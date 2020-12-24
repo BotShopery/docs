@@ -153,6 +153,11 @@ description: Commands available in Shopery.
 Don't include them in your commands.
 {% endhint %}
 
+### $about
+
+Description: _Gives the bot's description and informations._  
+Usage: `$about`
+
 ### $avatar
 
 Description: _Shows the avatar of the user, mentioned user or provided user ID._  
