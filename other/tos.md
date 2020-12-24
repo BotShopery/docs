@@ -15,7 +15,8 @@ By using the bot's ordering system, your order _**may not**_ include the followi
 2. Racist, homophobic or xenophobic content;
 3. More than 4 requests. Please refer to [this](https://i.imgur.com/yzzzHgx.png) for more informations;
 4. Incomprehensible requests. Your order must be understandable by the person reading it;
-5. Unknown user/character. If a user/character can not be found, they must be detectable on Google.
+5. Unknown user/character. If a user/character can not be found, they must be detectable on Google;
+6. Illegal topics/content.
 {% endhint %}
 
 {% hint style="success" %}
