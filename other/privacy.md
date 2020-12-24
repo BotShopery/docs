@@ -26,7 +26,7 @@ By using **Shopery**, you acknowledge that the following data will be shown publ
 * Your database informations \(rank, work points, total orders, etc..\).
 {% endhint %}
 
-If you wish your account to be permanently deleted from our database \(unless you are Banned\), you may request so to our Leading Team.
+If you wish your account to be permanently deleted from our database \(unless you are Banned\), you may request so to our [Leading Team](../ranks.md#leading-team).
 
-If you wish to see all internal data we store about you, you may request so to our Leading Team.
+If you wish to see all internal data we store about you, you may request so to our [Leading Team](../ranks.md#leading-team).
 
