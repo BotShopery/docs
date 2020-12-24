@@ -7,7 +7,7 @@ By using **Shopery**, you acknowledge that the following data will be collected 
 {% endhint %}
 
 {% hint style="warning" %}
-By using **Shopery**, you acknowledge that the following data will be logged \(and visible to Shopery's Leading Team only\) when running _any command_ for security purposes:
+By using **Shopery**, you acknowledge that the following data will be logged \(and visible for Shopery's [Leading Team](../ranks.md#leading-team) only\) when running _any command_ for security purposes:
 
 * Any command, and its parameters;
 * The server \(Name & ID\) from where it was ran;

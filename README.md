@@ -4,5 +4,5 @@ description: >-
   and have fun!
 ---
 
-# Home
+# About
 
