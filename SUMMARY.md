@@ -14,5 +14,5 @@
 
 * [Changelog - December 2020](other/changelog-december-2020.md)
 * [Terms of Service](other/tos.md)
-* [Privacy Policy](other/privacy-policy.md)
+* [Privacy Policy](other/privacy.md)
 
