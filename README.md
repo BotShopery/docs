@@ -18,9 +18,7 @@ Shopery is a bot that simulates a real delivery process. You order something, em
 **Want to be the one delivering the orders?** You can join our Team by applying in our [Discord server](https://dsc.gg/shoperyworkshop)!
 {% endhint %}
 
-If you want to invite Shopery, you should get started here:
-
-{% page-ref page="start/add.md" %}
-
-
+{% hint style="success" %}
+Invite **Shopery** to your server by clicking [here](https://dsc.gg/shopery).
+{% endhint %}
 
