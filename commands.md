@@ -66,6 +66,12 @@ description: Commands available in Shopery.
       <td style="text-align:left">User</td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>$invite</code>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">User</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>$help</code>
       </td>
       <td style="text-align:left">
@@ -216,6 +222,11 @@ Usage: `$deliverymessage <message>`
 
 Description: _Shows an invite to the official Discord server._  
 Usage: `$discord`
+
+### $invite
+
+Description: _Shows an invite for the bot_  
+Usage: `$invite`
 
 ### $eval
 
