@@ -14,6 +14,8 @@ Hey there! Welcome in Shopery's world. If you're here, you probably were interes
 
 Shopery is a bot that simulates a real delivery process. You order something, employees make it for you and deliver it into your server directly in a picture.
 
+![](https://top.gg/api/widget/787854966882697216.svg)
+
 {% hint style="info" %}
 **Want to be the one delivering the orders?** You can join our Team by applying in our [Discord server](https://dsc.gg/shoperyworkshop)!
 {% endhint %}
