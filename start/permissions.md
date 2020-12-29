@@ -50,6 +50,13 @@ The bot requires a few extra permissions:
         <p>You can then interact with these reactions.</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><em>Manage Messages</em>
+      </td>
+      <td style="text-align:left"><code>$review</code>
+      </td>
+      <td style="text-align:left">We use it to remove reactions from a bot&apos;s message.</td>
+    </tr>
   </tbody>
 </table>
 
