@@ -18,7 +18,8 @@ This regulation is subject to change without prior notice. It is the duty of the
 3. More than 4 requests. Please refer to [this](https://i.imgur.com/jDqw4gb.png) for more informations;
 4. Incomprehensible requests. Your order must be understandable by the person reading it;
 5. Unknown user/character. If a user/character can not be found, they must be detectable on Google;
-6. Illegal topics/content.
+6. Illegal topics/content;
+7. Rude, insulting content. It must remain respectful.
 {% endhint %}
 
 {% hint style="success" %}
