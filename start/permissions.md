@@ -1,7 +1,7 @@
 # Permissions
 
-The bot requires **Read Messages** and **Send Messages** at all times to work properly. Without these, the bot will not respond to your commands. We have also added the **Administrator** permission in our invitation link as an ease. You may remove it if you wish, as it is not a requirement for the bot to work nor will it ever be.  
-  
+The bot requires **Read Messages** and **Send Messages** at all times to work properly. Without these, the bot will not respond to your commands. We have also added the **Administrator** permission in our invitation link as an ease. You may remove it if you wish, as it is not a requirement for the bot to work nor will it ever be.
+
 The bot requires a few extra permissions:
 
 <table>
@@ -59,6 +59,4 @@ The bot requires a few extra permissions:
     </tr>
   </tbody>
 </table>
-
-
 

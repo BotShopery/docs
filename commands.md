@@ -134,14 +134,15 @@ description: Commands available in Shopery.
 
 | Command | Alias\(es\) | Rank |
 | :--- | :--- | :--- |
-| `$claim` | `$c` | Junior Employee |
-| `$deliver` | `$d` | Junior Employee |
-| `$deliverymessage` | `$deliverymsg` | Junior Employee |
+| `$claim` | `$c` | Trainee |
+| `$deliver` | `$d` | Trainee |
+| `$deliverymessage` | `$deliverymsg` | Trainee |
 | `$fire` |  | Supervisor |
 | `$hire` |  | Supervisor |
-| `$orderinfo` | `$oinfo` | Junior Employee |
-| `$pack` | `$p` | Junior Employee |
+| `$orderinfo` | `$oinfo` | Trainee |
+| `$pack` | `$p` | Trainee |
 | `$strike` |  | Employee |
+| `$trainee` |  | Supervisor |
 
 ### Owner Commands
 
@@ -287,10 +288,15 @@ Usage: `$status`
 Description: _Strikes and deletes the selected order._  
 Usage: `$strike [order_id]`
 
+### $trainee
+
+Description: _Sets a user's Trainee status._  
+Usage: `$trainee [type] [user]`
+
 ### $user
 
 Description: _Shows information about the user._  
-Usage:  `user <user>`
+Usage: `user <user>`
 
 ### $vote
 

@@ -2,17 +2,17 @@
 
 Shopery contains different ranks. Each rank has a function, and gives access to new commands. Each rank has access to the below ranks' perks. They will be listed below, from lowest to higher.
 
-### Banned
+## Banned
 
 0 - `Banned` - The user is banned. All commands without exception are blocked and can not be used by this user. View [this page](other/bans.md) for more information.
 
-### User
+## User
 
 1 - `User` - This is the default rank given to all users. It gives access to all [Public Commands](commands.md#public-commands).
 
-2 - `Premium` - This rank is not used.
+2 - `Trainee` - This is the rank for people willing to join the Employee Team. Join our [Discord server](https://discord.gg/PKgmWrjcHj) to learn about it.
 
-### Employee Team
+## Employee Team
 
 3 - `Junior Employee` - This is the first rank given to all Trainees who passed their test. They get access to most of the [Team Commands](commands.md#team-commands).
 
@@ -20,7 +20,7 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 5 - `Senior Employee` - This is the last and highest Employee rank. Employees who achieve this rank have worked really hard by reaching **200 WP**.
 
-### Management Team
+## Management Team
 
 6 - `Foreman` - This is the first Management rank. They are tasked with overseeing Employees, and participating in Management discussions.
 
@@ -28,7 +28,7 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 8 - `Manager` - This is the last and highest Management rank. They are tasked with checking that everything runs smoothly. They help selecting new people for Management ranks. They discuss with the Leading Team.
 
-### Leading Team
+## Leading Team
 
 9 - `Vice Chairman` - This is the first Leading rank. They have **full** power over Shopery.
 
