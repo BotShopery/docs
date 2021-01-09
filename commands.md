@@ -117,14 +117,7 @@ description: Commands available in Shopery.
     <tr>
       <td style="text-align:left"><code>$vote</code>
       </td>
-      <td style="text-align:left">
-        <p><code>$dbl</code>
-        </p>
-        <p><code>$top.gg</code>
-        </p>
-        <p><code>$topgg</code>
-        </p>
-      </td>
+      <td style="text-align:left"></td>
       <td style="text-align:left">User</td>
     </tr>
   </tbody>
