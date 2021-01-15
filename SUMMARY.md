@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Home](README.md)
 * [Commands](commands.md)
 * [Rank Hierarchy](ranks.md)
 

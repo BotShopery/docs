@@ -1,10 +1,10 @@
 ---
 description: >-
-  Shopery is your next level economy/franchise bot. Make deliveries for people
-  and have fun!
+  Next level economy & roleplay bot. Order something and we deliver it right to
+  your server. Join the Team and make deliveries!
 ---
 
-# About
+# Home
 
 Hey there! Welcome in Shopery's documentation. If you're here, you probably were interested by our bot, or you just wanted some documentation.
 
