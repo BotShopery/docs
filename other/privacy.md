@@ -16,7 +16,7 @@ By using **Shopery**, you acknowledge that the following data will be logged \(a
 {% endhint %}
 
 {% hint style="danger" %}
-By using **Shopery**, you acknowledge that the following data will be shown publicly in "**Shopery Workshop**" at certain events. You also acknowledge that the data may be visible to others when running a certain command:
+By using **Shopery**, you acknowledge that the following data will be shown publicly in "**Shopery Workshop**" at certain events. You also acknowledge that the data may be visible to others at certain events or when running specific commands:
 
 * Your tag;
 * Your ID;
