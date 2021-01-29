@@ -10,7 +10,7 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 1 - `User` - This is the default rank given to all users. It gives access to all [Public Commands](commands.md#public-commands).
 
-2 - `Trainee` - This is the rank for people willing to join the Employee Team. Join our [Discord server](https://discord.gg/PKgmWrjcHj) to learn about it.
+2 - `Trainee` - This is the rank for people willing to join the Employee Team. Join our [Discord server](https://amaury.xyz/discord) to learn about it.
 
 ## Employee Team
 
@@ -32,5 +32,5 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 9 - `Vice Chairman` - This is the first Leading rank. They have **full** power over Shopery.
 
-10 - `Chairman` - This is the highest rank in all Shopery. This rank is not obtainable. They have **full** power over Shopery.
+10 - `Chairman` - This is the highest rank in all Shopery. This rank is not obtainable. They have **full** power over Shopery. It is not achievable and will never be as it is reserved to `Amaury#8490`.
 

@@ -22,6 +22,7 @@ By using **Shopery**, you acknowledge that the following data will be shown publ
 * Your ID;
 * Your avatar;
 * Your server's name;
+* Your server's creation date;
 * Your server's ID;
 * Your database informations \(rank, work points, total orders, etc..\).
 {% endhint %}

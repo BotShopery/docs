@@ -13,10 +13,10 @@ Shopery is a bot that simulates a real delivery process. You order something, em
 ![](https://top.gg/api/widget/787854966882697216.svg)
 
 {% hint style="info" %}
-**Want to be the one delivering the orders?** You can join our Team by applying in our [Discord server](https://dsc.gg/shoperyworkshop) \(\#faq channel\)!
+**Want to be the one delivering the orders?** You can join our Team by applying in our [Discord server](https://amaury.xyz/discord) \(\#faq channel\)!
 {% endhint %}
 
 {% hint style="success" %}
-Invite **Shopery** to your server by clicking [here](https://dsc.gg/shopery).
+Invite **Shopery** to your server by clicking [here](https://amaury.xyz/invite).
 {% endhint %}
 
