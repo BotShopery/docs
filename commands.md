@@ -130,12 +130,12 @@ description: Commands available in Shopery.
 | `$claim` | `$c` | Trainee |
 | `$deliver` | `$d` | Trainee |
 | `$deliverymessage` | `$deliverymsg` | Trainee |
-| `$fire` |  | Supervisor |
-| `$hire` |  | Supervisor |
+| `$fire` |  | Foreman |
+| `$hire` |  | Foreman |
 | `$orderinfo` | `$oinfo` | Trainee |
 | `$pack` | `$p` | Trainee |
 | `$strike` |  | Employee |
-| `$trainee` |  | Supervisor |
+| `$trainee` |  | Foreman |
 
 ### Owner Commands
 
