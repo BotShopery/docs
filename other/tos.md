@@ -19,7 +19,8 @@ This regulation is subject to change without prior notice. It is the duty of the
 4. Incomprehensible requests. Your order must be understandable by the person reading it;
 5. Unknown user/character. If a user/character can not be found, they must be detectable on Google;
 6. Illegal topics/content;
-7. Rude, insulting content. It must remain respectful.
+7. Rude, insulting content. It must remain respectful;
+8. Request to do a specific action. We will only make products, not execute actions. This includes DMing people.
 {% endhint %}
 
 {% hint style="success" %}
