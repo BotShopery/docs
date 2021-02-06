@@ -27,6 +27,6 @@ This regulation is subject to change without prior notice. It is the duty of the
 **You may include:**
 
 1. Non-English requests. Your order will then be translated using a software such as Google Translate;
-2. A mentioned user's avatar. The command `$avatar` fetch the provided user's avatar, using their ID.
+2. A mentioned user's avatar. The command `$avatar` can fetch the provided user's avatar, using their ID.
 {% endhint %}
 
