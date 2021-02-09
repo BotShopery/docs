@@ -16,9 +16,9 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 3 - `Junior Employee` - This is the first rank given to all Trainees who passed their test. They get access to most of the [Team Commands](commands.md#team-commands).
 
-4 - `Employee` - This is the second Employee rank. Employees who achieve this rank have shown some dedication by reaching **25 WP**.
+4 - `Employee` - This is the second Employee rank. Employees who achieve this rank have shown some dedication by reaching **50 WP**.
 
-5 - `Senior Employee` - This is the last and highest Employee rank. Employees who achieve this rank have worked really hard by reaching **125 WP**.
+5 - `Senior Employee` - This is the last and highest Employee rank. Employees who achieve this rank have worked really hard by reaching **200 WP**.
 
 ## Management Team
 
