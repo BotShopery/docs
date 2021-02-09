@@ -32,7 +32,7 @@ This regulation is subject to change without prior notice. It is the duty of the
 
 ### Reviews
 
-Orders are subject to deletion if they don't meet the following points.
+Orders are subject to deletion if they don't meet the following points. Contact the Chairman for deletion requests.
 
 #### Cashier Rating
 
