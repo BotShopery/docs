@@ -20,7 +20,8 @@ This regulation is subject to change without prior notice. It is the duty of the
 5. Unknown user/character. If a user/character can not be found, they must be detectable on Google;
 6. Illegal topics/content;
 7. Rude, insulting content. It must remain respectful;
-8. Request to do a specific action. We will only make products, not execute actions. This includes DMing people.
+8. Request to do a specific action. We will only make products, not execute actions. This includes DMing people;
+9. Repetitive requests. We will not allow the same requests from the same users more than two times in a row.
 {% endhint %}
 
 {% hint style="success" %}
