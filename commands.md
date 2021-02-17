@@ -134,7 +134,7 @@ description: Commands available in Shopery.
 | `$hire` |  | Foreman |
 | `$orderinfo` | `$oinfo` | Trainee |
 | `$pack` | `$p` | Trainee |
-| `$strike` |  | Employee |
+| `$strike` |  | Foreman |
 | `$trainee` |  | Foreman |
 
 ### Owner Commands
