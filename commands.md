@@ -37,12 +37,6 @@ description: Commands available in Shopery.
       <td style="text-align:left">User</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>$bug</code>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">User</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><code>$cancel</code>
       </td>
       <td style="text-align:left"></td>
@@ -61,6 +55,12 @@ description: Commands available in Shopery.
         <p><code>$join</code>
         </p>
         <p><code>$job</code>
+        </p>
+        <p><code>$complain</code>
+        </p>
+        <p><code>$report</code>
+        </p>
+        <p><code>$bug</code>
         </p>
       </td>
       <td style="text-align:left">User</td>
@@ -186,11 +186,6 @@ Usage: `$about`
 
 Description: _Shows the avatar of the user, mentioned user or provided user ID._  
 Usage: `$avatar <user>`
-
-### $bug
-
-Description: _Reports a bug to the developers._  
-Usage: `$bug [description]`
 
 ### $cancel
 
