@@ -22,15 +22,17 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 ## Management Team
 
-6 - `Foreman` - This is the first Management rank. They are tasked with overseeing Employees, and participating in Management discussions, as well as hosting trainings.
+6 - `Supervisor` - This is the first Management rank. They are tasked with overseeing Employees, and participating in Management discussions.
 
-7 - `Supervisor` - This is the second Management rank. They are tasked with hiring new Employees, or firing current ones. They check that everything runs smoothly.
+7 - `Officer` - This is the second Management rank. They are tasked with hiring new Employees, or firing current ones. They check that everything runs smoothly.
 
 8 - `Manager` - This is the last and highest Management rank. They are tasked with checking that everything runs smoothly. They help selecting new people for Management ranks. They discuss with the Leading Team.
 
 ## Leading Team
 
-9 - `Vice Chairman` - This is the first Leading rank. They have **full** power over Shopery.
+9 - `Executive` - This is the first Leading rank. They have **full** power over Shopery.
 
-10 - `Chairman` - This is the highest rank in all Shopery. This rank is not obtainable. They have **full** power over Shopery. It is not achievable and will never be as it is reserved to `Amaury#8490`.
+10 - `Chief Executive` - This is the second Leading rank. They have **full** power over Shopery.
+
+11 - `Director` - This is the highest rank in all Shopery. This rank is not obtainable. They have **full** power over Shopery. It is not achievable and will never be as it is reserved to `Amaury#8490`.
 

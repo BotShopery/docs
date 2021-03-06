@@ -130,12 +130,12 @@ description: Commands available in Shopery.
 | `$claim` | `$c` | Trainee |
 | `$deliver` | `$d` | Trainee |
 | `$deliverymessage` | `$deliverymsg` | Trainee |
-| `$fire` |  | Foreman |
-| `$hire` |  | Foreman |
+| `$fire` |  | Supervisor |
+| `$hire` |  | Supervisor |
 | `$orderinfo` | `$oinfo` | Trainee |
 | `$pack` | `$p` | Trainee |
-| `$strike` |  | Foreman |
-| `$trainee` |  | Foreman |
+| `$strike` |  | Supervisor |
+| `$trainee` |  | Officer |
 
 ### Owner Commands
 
@@ -153,7 +153,7 @@ description: Commands available in Shopery.
       </td>
       <td style="text-align:left"><code>$query</code>
       </td>
-      <td style="text-align:left">Chairman</td>
+      <td style="text-align:left">Director</td>
     </tr>
     <tr>
       <td style="text-align:left"><code>$eval</code>
@@ -164,7 +164,7 @@ description: Commands available in Shopery.
         <p><code>$exec</code>
         </p>
       </td>
-      <td style="text-align:left">Chairman</td>
+      <td style="text-align:left">Director</td>
     </tr>
   </tbody>
 </table>
