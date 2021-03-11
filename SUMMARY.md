@@ -15,5 +15,6 @@
 * [Privacy Policy](other/privacy.md)
 * [Bans & Strikes](other/bans.md)
 * [Partners](other/partners/README.md)
+  * [Magic8](other/partners/magic8.md)
   * [CountBot](other/partners/countbot.md)
 
