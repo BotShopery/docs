@@ -1,4 +1,4 @@
-# Bans and Strikes
+# Bans & Strikes
 
 Bans are issued when a user reaches the **third strike**. Some bans may be manually done \(for `$bug` abuse, for example\).
 
