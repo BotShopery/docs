@@ -274,6 +274,16 @@ Usage: `$orderinfo [order_id]`
 Description: _Packs a claimed order._  
 Usage: `$pack [url]`
 
+### $prefix
+
+Description: _Changes the server prefix._  
+Usage: `$prefix <prefix>`
+
+### $premium
+
+Description: _Shows information about Premium._  
+Usage: `$premium`
+
 ### $review
 
 Description: _Gives a review when an order is completed, towards the cashier and deliverer._  
