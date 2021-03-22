@@ -66,12 +66,6 @@ description: Commands available in Shopery.
       <td style="text-align:left">User</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>$invite</code>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">User</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><code>$help</code>
       </td>
       <td style="text-align:left">
@@ -83,10 +77,28 @@ description: Commands available in Shopery.
       <td style="text-align:left">User</td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>$invite</code>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">User</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>$order</code>
       </td>
       <td style="text-align:left"><code>$o</code>
       </td>
+      <td style="text-align:left">User</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>$prefix</code>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">User</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>$premium</code>
+      </td>
+      <td style="text-align:left"></td>
       <td style="text-align:left">User</td>
     </tr>
     <tr>
@@ -128,6 +140,7 @@ description: Commands available in Shopery.
 | Command | Alias\(es\) | Rank |
 | :--- | :--- | :--- |
 | `$claim` | `$c` | Trainee |
+| `$delete` | `$del` | Employee |
 | `$deliver` | `$d` | Trainee |
 | `$deliverymessage` | `$deliverymsg` | Trainee |
 | `$fire` |  | Supervisor |
@@ -197,6 +210,11 @@ Usage: `$cancel`
 Description: _Claims the selected order._  
 Usage: `$claim [order_id]`
 
+### $delete
+
+Description: _Deletes an order._  
+Usage: `$delete [order_id] [reason]`
+
 ### $deliver
 
 Description: _Delivers the selected order._  
@@ -211,11 +229,6 @@ Usage: `$deliverymessage <message>`
 
 Description: _Shows an invite to the official Discord server._  
 Usage: `$discord`
-
-### $invite
-
-Description: _Shows an invite for the bot_  
-Usage: `$invite`
 
 ### $eval
 
@@ -236,6 +249,11 @@ Usage: `$help`
 
 Description: _Hires the provided user in the Team._  
 Usage: `$hire [user]`
+
+### $invite
+
+Description: _Shows an invite for the bot_  
+Usage: `$invite`
 
 ### $order
 
