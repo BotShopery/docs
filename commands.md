@@ -140,14 +140,14 @@ description: Commands available in Shopery.
 | Command | Alias\(es\) | Rank |
 | :--- | :--- | :--- |
 | `$claim` | `$c` | Trainee |
-| `$delete` | `$del` | Employee |
+| `$delete` | `$del` | Junior Employee |
 | `$deliver` | `$d` | Trainee |
 | `$deliverymessage` | `$deliverymsg` | Trainee |
 | `$fire` |  | Supervisor |
 | `$hire` |  | Supervisor |
 | `$orderinfo` | `$oinfo` | Trainee |
 | `$pack` | `$p` | Trainee |
-| `$strike` |  | Supervisor |
+| `$strike` |  | Senior Employee |
 | `$trainee` |  | Officer |
 
 ### Owner Commands
