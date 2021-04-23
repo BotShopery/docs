@@ -139,6 +139,7 @@ description: Commands available in Shopery.
 
 | Command | Alias\(es\) | Rank |
 | :--- | :--- | :--- |
+| `$appeal` |  | Supervisor |
 | `$claim` | `$c` | Trainee |
 | `$delete` | `$del` | Junior Employee |
 | `$deliver` | `$d` | Trainee |
@@ -194,6 +195,11 @@ Don't include them in your commands.
 
 Description: _Gives the bot's description and informations._  
 Usage: `$about`
+
+### $appeal
+
+Description: _Deletes a strike._  
+Usage: `$appeal [type] [order_id]`
 
 ### $avatar
 
