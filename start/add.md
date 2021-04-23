@@ -8,7 +8,7 @@ description: >-
 
 ## Open the OAuth2 tab
 
-To begin, you'll need to open the OAuth2 page, where Discord will ask for your permission to add the bot to your server. You can do so [here](https://amaury.xyz/invite).
+To begin, you'll need to open the OAuth2 page, where Discord will ask for your permission to add the bot to your server. You can do so [here](https://shopery.xyz/invite).
 
 ## Select a server
 

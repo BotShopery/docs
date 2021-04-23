@@ -10,7 +10,7 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 1 - `User` - This is the default rank given to all users. It gives access to all [Public Commands](commands.md#public-commands).
 
-2 - `Trainee` - This is the rank for people willing to join the Employee Team. Join our [Discord server](https://amaury.xyz/discord) to learn about it.
+2 - `Trainee` - This is the rank for people willing to join the Employee Team. Join our [Discord server](https://shopery.xyz/discord) to learn about it.
 
 ## Employee Team
 
