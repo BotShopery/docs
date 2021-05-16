@@ -31,24 +31,3 @@ This regulation is subject to change without prior notice. It is the duty of the
 2. A mentioned user's avatar. The command `$avatar` can fetch the provided user's avatar, using their ID.
 {% endhint %}
 
-### Reviews
-
-Orders are subject to deletion if they don't meet the following points. Contact the Chairman for deletion requests.
-
-#### Cashier Rating
-
-As a customer, you are not allowed to influence your review on the following reasons:
-
-* **Order claimed late**; Orders aren't assigned to anyone by default, therefore the cashier can not be faulty.
-
-The point here is to review the cashier for the quality of the product they made for you \(no pixels, related to the request, etc\).
-
-#### Deliverer Rating
-
-As a customer, you are not allowed to influence your review on the following reasons:
-
-* **Packing too long**; The packing process is automatic and can not be skipped by any way.
-* **Order delivered late**; Reviewing badly because you waited too long for your order when it wasn't assigned to a deliverer yet is not allowed. Orders aren't assigned to anyone by default, therefore the deliverer is not faulty if they claimed your order late. However, you can review badly if the deliverer arrived late after claiming the order, or if they didn't deliver it at all.
-
-The point here is to rate the deliverer for the quality of their delivery \(didn't arrive late after claiming the order, has an understandable delivery message, is respectful, etc\).
-

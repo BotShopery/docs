@@ -1,4 +1,4 @@
-# Bans & Strikes
+# Strikes
 
 Bans are issued when a user reaches the **third strike**.
 

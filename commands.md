@@ -102,17 +102,16 @@ description: Commands available in Shopery.
       <td style="text-align:left">User</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>$review</code>
-      </td>
-      <td style="text-align:left"><code>$rate</code>
-      </td>
-      <td style="text-align:left">User</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><code>$status</code>
       </td>
       <td style="text-align:left"><code>$myorder</code>
       </td>
+      <td style="text-align:left">User</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>$tip</code>
+      </td>
+      <td style="text-align:left"></td>
       <td style="text-align:left">User</td>
     </tr>
     <tr>
@@ -139,17 +138,14 @@ description: Commands available in Shopery.
 
 | Command | Alias\(es\) | Rank |
 | :--- | :--- | :--- |
-| `$appeal` |  | Supervisor |
 | `$claim` | `$c` | Trainee |
-| `$delete` | `$del` | Junior Employee |
 | `$deliver` | `$d` | Trainee |
 | `$deliverymessage` | `$deliverymsg` | Trainee |
 | `$fire` |  | Supervisor |
 | `$hire` |  | Supervisor |
 | `$orderinfo` | `$oinfo` | Trainee |
 | `$pack` | `$p` | Trainee |
-| `$strike` |  | Senior Employee |
-| `$trainee` |  | Officer |
+| `$strike` |  | Employee |
 
 ### Owner Commands
 
@@ -196,11 +192,6 @@ Don't include them in your commands.
 Description: _Gives the bot's description and informations._  
 Usage: `$about`
 
-### $appeal
-
-Description: _Deletes a strike._  
-Usage: `$appeal [type] [order_id]`
-
 ### $avatar
 
 Description: _Shows the avatar of the user, mentioned user or provided user ID._  
@@ -215,11 +206,6 @@ Usage: `$cancel`
 
 Description: _Claims the selected order._  
 Usage: `$claim [order_id]`
-
-### $delete
-
-Description: _Deletes an order._  
-Usage: `$delete [order_id] [reason]`
 
 ### $deliver
 
@@ -290,11 +276,6 @@ Usage: `$prefix <prefix>`
 Description: _Shows information about Premium._  
 Usage: `$premium`
 
-### $review
-
-Description: _Gives a review when an order is completed, towards the cashier and deliverer._  
-Usage: `$review [product_quality] [delivery_quality] <comment>`
-
 ### $sql
 
 Description: _Runs a MySQL query._  
@@ -310,15 +291,15 @@ Usage: `$status`
 Description: _Strikes and deletes the selected order._  
 Usage: `$strike [order_id]`
 
-### $trainee
+### $tip
 
-Description: _Sets a user's Trainee status._  
-Usage: `$trainee [type] [user]`
+Description: _Gives a tip to your latest order._  
+Usage: `$strike [amount] <comment>`
 
 ### $user
 
 Description: _Shows information about the user._  
-Usage: `user <user>`
+Usage: `$user <user>`
 
 ### $vote
 

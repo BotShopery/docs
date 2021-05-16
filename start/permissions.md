@@ -26,7 +26,7 @@ The bot requires a few extra permissions:
       <td style="text-align:left">
         <p><code>$order</code>
         </p>
-        <p><code>$review</code>
+        <p><code>$tip</code>
         </p>
         <p><code>$status</code>
         </p>
@@ -43,7 +43,7 @@ The bot requires a few extra permissions:
     <tr>
       <td style="text-align:left"><em>Add Reactions</em>
       </td>
-      <td style="text-align:left"><code>$review</code>
+      <td style="text-align:left"><code>$tip</code>
       </td>
       <td style="text-align:left">
         <p>We use it to add reactions to the bot&apos;s messages.</p>
@@ -53,7 +53,7 @@ The bot requires a few extra permissions:
     <tr>
       <td style="text-align:left"><em>Manage Messages</em>
       </td>
-      <td style="text-align:left"><code>$review</code>
+      <td style="text-align:left"><code>$tip</code>
       </td>
       <td style="text-align:left">We use it to remove reactions from a bot&apos;s message.</td>
     </tr>
