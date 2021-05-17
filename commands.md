@@ -145,7 +145,7 @@ description: Commands available in Shopery.
 | `$hire` |  | Supervisor |
 | `$orderinfo` | `$oinfo` | Trainee |
 | `$pack` | `$p` | Trainee |
-| `$strike` |  | Employee |
+| `$strike` |  | Senior Employee |
 
 ### Owner Commands
 
