@@ -1,4 +1,4 @@
-# Zero Two
+# ZeroTwo
 
 **You have come across my wonderful, beautiful Discord bot. Based off the star darling in the anime: Darling in the FranXX, this bot is packed to the brim with unfinished functionality. Sounds good, doesn't it?**
 
