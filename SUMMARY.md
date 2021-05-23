@@ -17,4 +17,5 @@
 * [Partners](other/partners/README.md)
   * [Magic8](other/partners/magic8.md)
   * [CountBot](other/partners/countbot.md)
+  * [Zero Two](other/partners/zerotwo.md)
 
