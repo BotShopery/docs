@@ -34,5 +34,5 @@ Shopery contains different ranks. Each rank has a function, and gives access to 
 
 10 - `Chief Executive` - This is the second Leading rank. They have **full** power over Shopery.
 
-11 - `Director` - This is the highest rank in all Shopery. This rank is not obtainable. They have **full** power over Shopery. It is not achievable and will never be as it is reserved to `Amaury#8490`.
+11 - `Director` - This is the highest rank in all Shopery. This rank is not obtainable. They have **full** power over Shopery. It is not achievable and will never be.
 
