@@ -15,6 +15,7 @@ By being a member of **Shopery Workshop**, you abide by the following rules and 
 4. **No advertisments**; no ads of any type \(discord servers, websites, youtube channels, social media accounts, etc\).
 5. **No NSFW content**; no pornographic, obscene or highly disturbing content of any type \(messages, voice chats, usernames, avatars, status, etc\).
 6. **Have common sense**; this is a non-exhaustive list and a Moderator may take action if they deem something as impactful.
+7.  **Keep content to their related channels**; no bot commands in discussion channels.
 {% endhint %}
 
 ## Bot Rules
