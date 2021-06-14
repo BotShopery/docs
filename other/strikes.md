@@ -1,6 +1,6 @@
 # Strikes
 
-Bans are issued when a user reaches the **third strike**.
+A blacklist is issued when a user reaches the **third strike**.
 
 A strike is issued when the [Terms of Service](tos.md) are not respected. They are issued by a [Senior Employee](../ranks.md#employee-team) or higher.
 

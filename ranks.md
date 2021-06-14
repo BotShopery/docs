@@ -2,9 +2,9 @@
 
 Shopery contains different ranks. Each rank has a function, and gives access to new commands. Each rank has access to the below ranks' perks. They will be listed below, from lowest to higher.
 
-## Banned
+## Blacklisted
 
-0 - `Banned` - The user is banned. All commands without exception are blocked and can not be used by this user. View [this page](other/bans.md) for more information.
+0 - `Blacklisted` - The user is blacklisted due to a Shopery Workshop ban. All commands without exception are blocked and can not be used by this user. View [this page](other/strikes.md) for more information.
 
 ## User
 

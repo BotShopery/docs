@@ -13,7 +13,7 @@
 
 * [Terms of Service](other/tos.md)
 * [Privacy Policy](other/privacy.md)
-* [Strikes](other/bans.md)
+* [Strikes](other/strikes.md)
 * [Partners](other/partners/README.md)
   * [Magic8](other/partners/magic8.md)
   * [CountBot](other/partners/countbot.md)
