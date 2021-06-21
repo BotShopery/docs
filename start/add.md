@@ -12,7 +12,7 @@ To begin, you'll need to open the OAuth2 page, where Discord will ask for your p
 
 ## Select a server
 
-You will now be prompted to change a server. Choose the server in which you want to add Shopery.
+You will now be prompted to choose a server. Choose the server in which you want to add Shopery.
 
 ![](../.gitbook/assets/0otbadc.png)
 
